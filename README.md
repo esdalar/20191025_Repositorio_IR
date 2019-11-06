@@ -10,36 +10,36 @@ After that, we download it in our desktop and create a ".txt" file that we are g
 
 - For this, firstly we open "Git bash" and clone the repository:
 
-´´´ 
+```
 
 $ cd 20191025_Repositorio_IR\
-´´´ 
+```
 
 - We add the file that we want to commit:
 
-´´´ 
+```
 
 $ git add "Apuntes_Integracion_Robotica"
-´´´ 
+```
 
 - To be able to see the changes that we have done we write:
 
-´´´ 
+``` 
 
 $git status
-´´´ 
+``` 
  
 - If the changes are ok, we write some notes with the commit:
 
-´´´ 
+```
 
 $ git commit -m "Some formats have been changed"
-´´´ 
+``` 
 
 - Then we upload the files:
 
-´´´ 
+```
 
 $ git push
-´´´ 
+``` 
 

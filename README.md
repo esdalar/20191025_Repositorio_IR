@@ -2,7 +2,7 @@
 
 ## Homework 1.1 ## 
 
-** How to create and modify own repository **
+**How to create and modify own repository**
 
 First of all, we create the account in GitHub in the link [GitHub Pages](https://pages.github.com/).
 
@@ -53,7 +53,7 @@ $ git commit -m "Some formats have been changed"
 ```
 $ git push
 ``` 
-** How to do a pullrequest **
+**How to do a pullrequest**
 
  A pull request has been done to the github user [teresamg22](https://github.com/teresamg22)
  First, we create a folder un our desktop and clone the repository:
